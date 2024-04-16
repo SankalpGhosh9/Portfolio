@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Django Website",
+      "category": "AWS",
+      "date": "Apr 16, 2024",
+      "image": "/images/thumbnail-linnkedin-django.jpg",
+      "description": "Hosting up Django Website (Hobbies Chatroom)using AWS Services.",
+      "link":"https://medium.com/@sankalp09ghosh/setting-up-django-website-hobbies-chatroom-using-aws-services-8fb42e0ee2c1"
+    },
+    {
+      "title": "Php Website",
+      "category": "AWS",
+      "date": "Apr 10, 2024",
+      "image": "/images/php-img-blog.jpg",
+      "description": "Hosting up PHP Website (HR Management System)using AWS Services.",
+      "link":"https://medium.com/@sankalp09ghosh/setting-up-laravel-hr-management-system-website-with-aws-services-881956177ebc"
+    }
+]

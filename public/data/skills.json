@@ -1,0 +1,58 @@
+[
+    {
+      "name": "HTML",
+      "avatar": "/images/html.svg",
+      "level": "Intermediate"
+    },
+    {
+        "name": "CSS",
+        "avatar": "/images/css.svg",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Javascript",
+        "avatar": "/images/js.svg",
+        "level": "Intermediate"
+      },
+      {
+        "name": "React",
+        "avatar": "/images/react.svg",
+        "level": "Intermediate"
+      },
+    
+      {
+        "name": "Postgresql",
+        "avatar": "/images/postgresql.svg",
+        "level": "Intermediate"
+      },
+      {
+        "name": "AWS",
+        "avatar": "/images/aws.svg",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Docker",
+        "avatar": "/images/docker.svg",
+        "level": "Beginner"
+      },
+      {
+        "name": "Jenkins",
+        "avatar": "/images/jenkins.svg",
+        "level": "Beginner"
+      },
+      {
+        "name": "Git",
+        "avatar": "/images/git.svg",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Linux",
+        "avatar": "/images/linux.svg",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Python",
+        "avatar": "/images/py.svg",
+        "level": "Intermediate"
+      }  
+    ]
