@@ -14,7 +14,20 @@
       "category":"Cloud Development",
       "image": "/images/php-img-blog.jpg",
       "link":"https://github.com/SankalpGhosh9/HRMS"
+    },
+    {
+      "id":3,
+      "title": "Mediscan Website",
+      "category":"Web Development",
+      "image": "/images/mediscan.jpg",
+      "link":"https://github.com/SankalpGhosh9/Mediscan"
+    },
+    {
+      "id":4,
+      "title": "MultiMart",
+      "category":"Web Development",
+      "image": "/images/multimart.jpg",
+      "link":"https://github.com/SankalpGhosh9/Multimart"
     }
-  
   
 ]
